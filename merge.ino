@@ -33,7 +33,7 @@ void loop()
  * @作者：Vijay
  * @邮箱：qioupeng@yeah.net
  * @日期：2018-11-19
- * @功能描述：[合并两个含有nA、nB个元素的有序数组]
+ * @功能描述：[合并两个含有nA、nB个元素的字符串数组]
  * @param                a     [输入字符串数组a]
  * @param                b     [输入字符串数组b]
  * @param                c     [输出字符串数组c]
