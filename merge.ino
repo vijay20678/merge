@@ -29,6 +29,18 @@ void loop()
 {
 
 }
+/**
+ * @作者：Vijay
+ * @邮箱：qioupeng@yeah.net
+ * @日期：2018-11-19
+ * @功能描述：[合并两个含有nA、nB个元素的有序数组]
+ * @param                a     [输入字符串数组a]
+ * @param                b     [输入字符串数组b]
+ * @param                c     [输出字符串数组c]
+ * @param                nA    [输入字符串数组a的元素个数]
+ * @param                nB    [输入字符串数组b的元素个数]
+ * @param                nCout [输出字符串数组c的元素个数]
+ */
 void Merge1(String *a, String *b, String *c, int nA, int nB, int& nCout)
 {
     int i = 0 ;
